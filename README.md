@@ -1,6 +1,7 @@
 # Generative AI Image Captioning with BLIP
 
 This project uses the BLIP (Bootstrapping Language-Image Pretraining) model to generate natural language captions from images.
+The project can be configured to use either BLIP Base or BLIP Large models.
 
 ## Technologies
 - Python
