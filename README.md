@@ -20,4 +20,4 @@ The project can be configured to use either BLIP Base or BLIP Large models.
 
 ## Demo
 
-![Demo](demo.png)
+![Demo](demo.PNG)
