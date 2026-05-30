@@ -17,3 +17,7 @@ The project can be configured to use either BLIP Base or BLIP Large models.
 3. Run all cells
 4. Upload an image
 5. Get the generated caption
+
+## Demo
+
+![Demo](demo.png)
